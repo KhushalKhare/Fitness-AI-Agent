@@ -177,6 +177,12 @@ This architecture avoids simple prompt chaining and instead uses state-driven ag
 * Easily extendable to Postgres or cloud DB
 
 ---
+##  Sample Output
+
+You can view a generated fitness plan example here:
+
+[Download Sample Fitness Plan (PDF)](https://github.com/KhushalKhare/Fitness-AI-Agent/blob/main/LinkedIN%20Post%20Github.pdf)
+
 
 ##  Why This Project
 
